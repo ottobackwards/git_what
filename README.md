@@ -32,12 +32,12 @@ such as:
     "Fetch URL": "https://github.com/apple/swift-lldb.git",
     "HEAD branch": "master",
     "Push URL": "https://github.com/apple/swift-lldb.git"
-  },
+    },
 
 ## Calling
     Usage: git-what.py [options]
 
-Options:
-  -h, --help            show this help message and exit
-  -d DIRECTORY, --directory=DIRECTORY
+    Options:
+     -h, --help            show this help message and exit
+     -d DIRECTORY, --directory=DIRECTORY
                         The directory to start in
